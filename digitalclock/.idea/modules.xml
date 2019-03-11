@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/digitalclock.iml" filepath="$PROJECT_DIR$/digitalclock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/digitalclock_main.iml" filepath="$PROJECT_DIR$/.idea/modules/digitalclock_main.iml" group="digitalclock" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/digitalclock_test.iml" filepath="$PROJECT_DIR$/.idea/modules/digitalclock_test.iml" group="digitalclock" />
+    </modules>
+  </component>
+</project>
